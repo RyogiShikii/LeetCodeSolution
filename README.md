@@ -15,3 +15,4 @@ This repository is for recording the path of solving LeetCode problems
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./algorithms/src/plusOne.js)|Easy|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./algorithms/src/powerXn.js)|Medium|
