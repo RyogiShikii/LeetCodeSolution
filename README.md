@@ -17,3 +17,4 @@ This repository is for recording the path of solving LeetCode problems
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./algorithms/src/plusOne.js)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./algorithms/src/powerXn.js)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./algorithms/src/searchInsertPosition.js)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](./algorithms/src/removeDuplicatesFromSortedArray.js)|Easy|
