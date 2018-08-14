@@ -19,3 +19,4 @@ This repository is for recording the path of solving LeetCode problems
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./algorithms/src/searchInsertPosition.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](./algorithms/src/removeDuplicatesFromSortedArray.js)|Easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [JavaScript](./algorithms/src/removeKDigits.js)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [JavaScript](./algorithms/src/moveZeros.js)|Medium|
