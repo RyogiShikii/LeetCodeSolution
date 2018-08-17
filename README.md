@@ -22,3 +22,4 @@ This repository is for recording the path of solving LeetCode problems
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [JavaScript](./algorithms/src/moveZeros.js)|Medium|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./algorithms/src/eliminationGame.js)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [JavaScript](./algorithms/src/NthDigit.js)|easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [JavaScript](./algorithms/src/jewelsAndStones.js)|easy|
