@@ -25,3 +25,4 @@ This repository is for recording the path of solving LeetCode problems
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [JavaScript](./algorithms/src/jewelsAndStones.js)|easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [JavaScript](./algorithms/src/productOfArrayExceptSelf.js)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./algorithms/src/arrayPartitionOne.js)|easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
