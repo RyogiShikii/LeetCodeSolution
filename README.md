@@ -18,6 +18,7 @@ This repository is for recording the path of solving LeetCode problems
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./algorithms/src/powerXn.js)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./algorithms/src/searchInsertPosition.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](./algorithms/src/removeDuplicatesFromSortedArray.js)|Easy|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [JavaScript](./algorithms/src/buldSwitcher.js)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [JavaScript](./algorithms/src/removeKDigits.js)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [JavaScript](./algorithms/src/moveZeros.js)|Medium|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./algorithms/src/eliminationGame.js)|Medium|
