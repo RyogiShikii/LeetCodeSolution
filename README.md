@@ -11,6 +11,7 @@ This repository is for recording the path of solving LeetCode problems
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./algorithms/src/searchInsertPosition.js)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./algorithms/src/powerXn.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./algorithms/src/plusOne.js)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [JavaScript](./algorithms/src/sqrtX.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
