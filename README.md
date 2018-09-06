@@ -22,6 +22,7 @@ This repository is for recording the path of solving LeetCode problems
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [JavaScript](./algorithms/src/rangeSumQueryImmutable.js)|Easy|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | [JavaScript](./algorithms/src/buldSwitcher.js)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [JavaScript](./algorithms/src/powerOfThree.js)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [JavaScript](./algorithms/src/intersectionOfTwoArrays.js)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./algorithms/src/eliminationGame.js)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [JavaScript](./algorithms/src/NthDigit.js)|easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [JavaScript](./algorithms/src/removeKDigits.js)|Medium|
