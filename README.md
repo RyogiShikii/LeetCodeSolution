@@ -33,6 +33,7 @@ This repository is for recording the path of solving LeetCode problems
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [JavaScript](./algorithms/src/arrangingCoins.js)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [JavaScript](./algorithms/src/hammingDistance.js)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) | [JavaScript](./algorithms/src/perfectNumber.js)|Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [JavaScript](./algorithms/src/reverseWordsInAStringIII.js)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./algorithms/src/arrayPartitionOne.js)|easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [JavaScript](./algorithms/src/maxiunProductOfThreeNumbers.js)|easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [JavaScript](./algorithms/src/nonDecreasingArray.js)|easy|
