@@ -13,6 +13,7 @@ This repository is for recording the path of solving LeetCode problems
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [JavaScript](./algorithms/src/lengthOfLastWord.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./algorithms/src/plusOne.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [JavaScript](./algorithms/src/sqrtX.js)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/description/) | [JavaScript](./algorithms/src/singleNumber.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
