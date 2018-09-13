@@ -41,3 +41,4 @@ This repository is for recording the path of solving LeetCode problems
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [JavaScript](./algorithms/src/toLowerCase.js)|easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [JavaScript](./algorithms/src/jewelsAndStones.js)|easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [JavaScript](./algorithms/src/fairCandySwap.js)|easy|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [JavaScript](./algorithms/src/monotonicArray.js)|easy|
