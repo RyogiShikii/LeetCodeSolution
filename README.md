@@ -14,6 +14,7 @@ This repository is for recording the path of solving LeetCode problems
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./algorithms/src/plusOne.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [JavaScript](./algorithms/src/sqrtX.js)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [JavaScript](./algorithms/src/singleNumber.js)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./algorithms/src/twoSum2InputArrayIsSorted.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
