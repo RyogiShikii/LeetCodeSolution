@@ -17,6 +17,7 @@ This repository is for recording the path of solving LeetCode problems
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [JavaScript](./algorithms/src/containsDuplicate3.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./algorithms/src/poewerOfTwo.js)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [JavaScript](./algorithms/src/productOfArrayExceptSelf.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./algorithms/src/validAnagram.js)|Easy|
