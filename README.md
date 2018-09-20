@@ -30,6 +30,7 @@ This repository is for recording the path of solving LeetCode problems
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) | [JavaScript](./algorithms/src/powerOfThree.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [JavaScript](./algorithms/src/reverseString.js)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [JavaScript](./algorithms/src/intersectionOfTwoArrays.js)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [JavaScript](./algorithms/src/sumOfTwoIntegers.js)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./algorithms/src/eliminationGame.js)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [JavaScript](./algorithms/src/NthDigit.js)|easy|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [JavaScript](./algorithms/src/removeKDigits.js)|Medium|
