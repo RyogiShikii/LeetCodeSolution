@@ -47,6 +47,7 @@ This repository is for recording the path of solving LeetCode problems
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) | [JavaScript](./algorithms/src/replaceWords.js)|Medium|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | [JavaScript](./algorithms/src/nonDecreasingArray.js)|easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [JavaScript](./algorithms/src/toLowerCase.js)|easy|
+|717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [JavaScript](./algorithms/src/1-bit-and-2-bit-characters.js)|easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [JavaScript](./algorithms/src/jewelsAndStones.js)|easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [JavaScript](./algorithms/src/fairCandySwap.js)|easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [JavaScript](./algorithms/src/monotonicArray.js)|easy|
