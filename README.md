@@ -24,6 +24,7 @@ This repository is for recording the path of solving LeetCode problems
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./algorithms/src/poewerOfTwo.js)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [JavaScript](./algorithms/src/productOfArrayExceptSelf.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./algorithms/src/validAnagram.js)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [JavaScript](./algorithms/src/missingNumber.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [JavaScript](./algorithms/src/moveZeros.js)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [JavaScript](./algorithms/src/findTheDuplicateNumber.js)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [JavaScript](./algorithms/src/rangeSumQueryImmutable.js)|Easy|
