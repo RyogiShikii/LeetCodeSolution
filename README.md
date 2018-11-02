@@ -8,6 +8,7 @@ This repository is for recording the path of solving LeetCode problems
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./algorithms/src/reverseInteger.js)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./algorithms/src/romanToInteger.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](./algorithms/src/removeDuplicatesFromSortedArray.js)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./algorithms/src/removeElement.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JavaScript](./algorithms/src/searchInsertPosition.js)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [JavaScript](./algorithms/src/powerXn.js)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [JavaScript](./algorithms/src/lengthOfLastWord.js)|Easy|
