@@ -26,11 +26,12 @@ This repository is for recording the path of solving LeetCode problems
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
-|217|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./algorithms/src/contains-duplicate-ii.js)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./algorithms/src/contains-duplicate-ii.js)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [JavaScript](./algorithms/src/containsDuplicate3.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./algorithms/src/poewerOfTwo.js)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [JavaScript](./algorithms/src/productOfArrayExceptSelf.js)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [JavaScript](./algorithms/src/validAnagram.js)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [JavaScript](./algorithms/src/add-digits.js)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/) | [JavaScript](./algorithms/src/missingNumber.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [JavaScript](./algorithms/src/moveZeros.js)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [JavaScript](./algorithms/src/findTheDuplicateNumber.js)|Medium|
@@ -40,9 +41,11 @@ This repository is for recording the path of solving LeetCode problems
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) | [JavaScript](./algorithms/src/powerOfFour.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) | [JavaScript](./algorithms/src/reverseString.js)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [JavaScript](./algorithms/src/intersectionOfTwoArrays.js)|Easy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [JavaScript](./algorithms/src/valid-perfect-square.js)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [JavaScript](./algorithms/src/sumOfTwoIntegers.js)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](./algorithms/src/first-unique-character-in-a-string.js)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) | [JavaScript](./algorithms/src/eliminationGame.js)|Medium|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [JavaScript](./algorithms/src/NthDigit.js)|easy|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) | [JavaScript](./algorithms/src/NthDigit.js)|Medium|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [JavaScript](./algorithms/src/removeKDigits.js)|Medium|
 |412|[Fizz-buzz](https://leetcode.com/problems/fizz-buzz/description/) | [JavaScript](./algorithms/src/fizzBuzz.js)|Easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | [JavaScript](./algorithms/src/arrangingCoins.js)|Easy|
