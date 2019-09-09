@@ -22,9 +22,11 @@ This repository is for recording the path of solving LeetCode problems
 |136|[Single Number](https://leetcode.com/problems/single-number/description/) | [JavaScript](./algorithms/src/singleNumber.js)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [JavaScript](./algorithms/src/findPeakElement.js)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./algorithms/src/twoSum2InputArrayIsSorted.js)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [JavaScript](./algorithms/src/excel-sheet-column-number.js)|easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [JavaScript](./algorithms/src/rotateArray.js)|easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [JavaScript](./algorithms/src/numberOfOneBits.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [JavaScript](./algorithms/src/containsDuplicate.js)|Easy|
+|217|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [JavaScript](./algorithms/src/contains-duplicate-ii.js)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [JavaScript](./algorithms/src/containsDuplicate3.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) | [JavaScript](./algorithms/src/poewerOfTwo.js)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [JavaScript](./algorithms/src/productOfArrayExceptSelf.js)|Medium|
