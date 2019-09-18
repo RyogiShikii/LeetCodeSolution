@@ -55,6 +55,8 @@ This repository is for recording the path of solving LeetCode problems
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./algorithms/src/max-consecutive-ones.js)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/description/) | [JavaScript](./algorithms/src/base-7.js)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) | [JavaScript](./algorithms/src/perfectNumber.js)|Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](./algorithms/src/fibonacci-number.js)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [JavaScript](./algorithms/src/student-attendance-record-i.js)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [JavaScript](./algorithms/src/reverseWordsInAStringIII.js)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./algorithms/src/arrayPartitionOne.js)|easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [JavaScript](./algorithms/src/maxiunProductOfThreeNumbers.js)|easy|
