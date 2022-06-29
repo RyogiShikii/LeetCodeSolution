@@ -5,6 +5,7 @@ This repository is for recording the path of solving LeetCode problems
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./algorithms/src/twoSum.js)|Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./algorithms/src/Longest Substring Without Repeating Characters.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./algorithms/src/reverseInteger.js)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](./algorithms/src/palindromeNumber.js)|Easy|
 |13|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/description/) | [JavaScript](./algorithms/src/romanToInteger.js)|Easy|
